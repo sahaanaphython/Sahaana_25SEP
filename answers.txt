@@ -46,7 +46,7 @@ section 2:   Answer following questions from current repository
   - How many branches were created in this repository ?
   There is only the master branch. None were newly created.
   - Can you make your repository ignore all any  .jpg  ( i.e, any file ends with .jpg)
-
+Yes.
 
     - What is the SHA id of tag "V5.1" ?
     - What is the command to delete tag "V5.0"
